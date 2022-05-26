@@ -4,14 +4,10 @@ body{
     /*font-family: "Comic Sans MS", "Comic Sans", cursive;*/
 }
 
-#mainContentContainer {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    margin-top: -375px;
-    margin-left: -375px;
-    width: 750px;
-    height: 750px;
+.mainContentCentered{
+    margin: auto;
+    width: 60%;
+    padding: 10px;
 }
 
 thickLine {
