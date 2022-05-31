@@ -62,11 +62,11 @@ thinLine {
 
 @media(max-width: 700px) {
     .mainContentCentered h1{
-        font-size: 20px;
+        font-size:16.45px;
     }
 
     .mainContentCentered{
-        font-size: 12px;
+        font-size: 10px;
     }
 
     .left, .right {
